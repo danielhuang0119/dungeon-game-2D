@@ -135,7 +135,7 @@ public class Main {
         StdDraw.setPenColor(Color.WHITE);
 
         StdDraw.setFont(new Font("Comic Sans MS", Font.BOLD, 40));
-        StdDraw.text(25, 40, "CS61B: BYOW");
+        StdDraw.text(25, 40, "2D Dungeon Game");
 
         StdDraw.setFont(new Font("Comic Sans MS", Font.BOLD, 25));
         StdDraw.text(25, 30, "(N) New Game");
